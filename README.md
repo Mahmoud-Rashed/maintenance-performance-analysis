@@ -1,6 +1,10 @@
 # maintenance-performance-analysis
 Exploratory data analysis of real-world maintenance operations data from a large-scale plastic manufacturing environment. The analysis focuses on maintenance workload distribution, response times, and operational efficiency.
 
+## Data Privacy Notice !
+
+To protect company confidentiality, this repository uses an anonymized and representative dataset. All sensitive identifiers, live connections, and proprietary information have been removed. The analysis workflow, methodology, and insights reflect real-world maintenance analytics practices.
+
 ## Tools & Technologies
 
 ### Python
